@@ -1,0 +1,1 @@
+update   url set processed =1 where complete_url =?;

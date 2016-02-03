@@ -1,0 +1,9 @@
+{
+  "start_url" : "http://yourFavouriteCraftSite.com/",
+  "max_link"  : 20,
+  "max_depth" : 6,
+  "do_not_crawl" : ["facebook","amazon","google","twitter","@","amzn",".mil",".int",".jpg",".png","wordpress","blog","yahoo",
+                      "reddit","pinterest","javascript","youtube","stanford","vimeo","comment","licenses","china","contact",
+                      "subscribe","instagram","wiki","pharmacy","cart","checkout","flick","respond"],
+  "valid_TLDs" : [".com",".net",".edu",".org"]
+}

@@ -1,0 +1,1 @@
+select id from url where complete_url = ? limit 1;

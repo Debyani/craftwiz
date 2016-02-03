@@ -1,0 +1,1 @@
+select complete_url from url where processed =0;
